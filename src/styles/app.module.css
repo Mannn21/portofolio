@@ -1,0 +1,17 @@
+.container {
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+}
+
+.content {
+    padding: 10px 50px;
+}
